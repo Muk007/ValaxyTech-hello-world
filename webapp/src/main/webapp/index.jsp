@@ -1,2 +1,2 @@
-<h1> Hello, Welcome to Valaxy Technologies !!! </h1>
-
+<h1> Welcone to Bengalore !!! </h1>
+<h2> thirupathi  !!! </h2>
